@@ -18,7 +18,7 @@ public class UserInterfaceExample extends Application{
 		//choose UI components
 		Button button=new Button();
 		button.setText("SUBMIT");
-		//PUT INSide container work like div
+		//PUT INSide container work like div tag
 		StackPane root=new StackPane();
 		root.getChildren().add(button);
 		//scene
